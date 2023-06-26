@@ -14,6 +14,6 @@ $(document).ready(function(){
 </script>
 </head>
 <body>
-hello~!! Test
+hello~!! Test!!
 </body>
 </html>
